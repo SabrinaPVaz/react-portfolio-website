@@ -2,24 +2,10 @@ import React from 'react'
 import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import {AiFillLinkedin} from 'react-icons/ai'
-import {BsWhatsapp} from 'react-icons/bs'
 import {useRef} from 'react'
 import emailjs from 'emailjs-com'
 
 export const Contact = () => {
-  const form = useRef();
-
-  const sendEmail = (e) => {
-  e.preventDefault();
-
-  emailjs.sendForm('service_ro7vz74, template_3gy33kg', form.current, 'KwbYACkkonDCxO1JJLbNr')
-  .then((result) => {
-    console.log(result.text);
-  }, (error) => {
-    console.log(error.text);
-  })
-};
-
   return (
     <section id='contact'>
       <h5> Entrar em contato </h5>

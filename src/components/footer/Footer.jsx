@@ -4,7 +4,7 @@ import './footer.css'
 export const Footer = () => {
   return (
     <footer>
-      <a href='#' className=''footer__logo></a>
+      <a href='#' className='footer a'> Ir para home </a>
 
       <ul className='permalinks'>
         <li><a href='#'>Home</a></li>
