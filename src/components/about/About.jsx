@@ -30,12 +30,12 @@ export const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.           
+          Atualmente desenvolvo aplicações web, inserida no contexto de times ágeis, contribuindo para 
+          construção, análise e desenvolvimento de API's REST em Java com SprngBoot, realizo testes unitários com
+          Junit, controle de versionamento de código Git com Microsoft Azure e Postgress como banco de dados relacional.
+      
+          Possuo inglê niver Upper B2 com certificação pela EFSET English.
+          
           </p>
 
           <a href="#contact" className='btn btn-primary'> Entre em contato </a>
