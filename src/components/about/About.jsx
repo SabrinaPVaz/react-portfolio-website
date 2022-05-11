@@ -30,12 +30,14 @@ export const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.           
+          Currently i'm intern with web applications into agile team, contributing to the construction , 
+          analysis and development ​REST API's, getting experience with Java, Spring Boot, unit test with JUnit, 
+          Git with Microsoft Azure, Postgress as database.
+      
+          I have Intermediate English certified by EFSET English (upper level B2).
+
+          Focus on obtaining certifications and experience in technology, encouraging women and showing 
+          that we can enter the most diverse environments in search of gender equality.           
           </p>
 
           <a href="#contact" className='btn btn-primary'> Entre em contato </a>
