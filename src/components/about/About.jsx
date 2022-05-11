@@ -30,14 +30,12 @@ export const About = () => {
           </div>
 
           <p>
-          Currently i'm intern with web applications into agile team, contributing to the construction , 
-          analysis and development ​REST API's, getting experience with Java, Spring Boot, unit test with JUnit, 
-          Git with Microsoft Azure, Postgress as database.
+          Atualmente desenvolvo aplicações web, inserida no contexto de times ágeis, contribuindo para 
+          construção, análise e desenvolvimento de API's REST em Java com SprngBoot, realizo testes unitários com
+          Junit, controle de versionamento de código Git com Microsoft Azure e Postgress como banco de dados relacional.
       
-          I have Intermediate English certified by EFSET English (upper level B2).
-
-          Focus on obtaining certifications and experience in technology, encouraging women and showing 
-          that we can enter the most diverse environments in search of gender equality.           
+          Possuo inglê niver Upper B2 com certificação pela EFSET English.
+          
           </p>
 
           <a href="#contact" className='btn btn-primary'> Entre em contato </a>
