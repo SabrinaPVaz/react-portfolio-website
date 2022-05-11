@@ -34,7 +34,7 @@ export const About = () => {
           construção, análise e desenvolvimento de API's REST em Java com SprngBoot, realizo testes unitários com
           Junit, controle de versionamento de código Git com Microsoft Azure e Postgress como banco de dados relacional.
       
-          Possuo inglê niver Upper B2 com certificação pela EFSET English.
+          Possuo inglês nivel Upper B2 com certificação pela EFSET English.
           
           </p>
 
