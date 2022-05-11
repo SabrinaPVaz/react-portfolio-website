@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-portfolio-website/static/css/main.de995da7.css",
-    "main.js": "/react-portfolio-website/static/js/main.af27a49c.js",
+    "main.js": "/react-portfolio-website/static/js/main.114030ed.js",
     "static/media/me_about.jpg": "/react-portfolio-website/static/media/me_about.e50d0adbfbc985f833f8.jpg",
     "static/media/CV.pdf": "/react-portfolio-website/static/media/CV.3aeb8449e81bf72516ae.pdf",
     "static/media/me.jpg": "/react-portfolio-website/static/media/me.701382316c10d4e44370.jpg",
     "index.html": "/react-portfolio-website/index.html",
     "main.de995da7.css.map": "/react-portfolio-website/static/css/main.de995da7.css.map",
-    "main.af27a49c.js.map": "/react-portfolio-website/static/js/main.af27a49c.js.map"
+    "main.114030ed.js.map": "/react-portfolio-website/static/js/main.114030ed.js.map"
   },
   "entrypoints": [
     "static/css/main.de995da7.css",
-    "static/js/main.af27a49c.js"
+    "static/js/main.114030ed.js"
   ]
 }
